@@ -1,316 +1,233 @@
-🌌 PUGAZHENTHI M — BUILDING IDEAS INTO DIGITAL EXPERIENCES
+# Hi, I'm Pugazhenthi M 👋
 
-<div align="center">
+### AI Engineer | Software Developer | Full Stack Developer | UI/UX Designer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,50:172554,100:6D28D9&height=220&section=header&text=PUGAZHENTHI%20M&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Developing+Scalable+Software+Solutions;Designing+Beautiful+User+Experiences;Exploring+Agentic+AI+%26+LLM+Workflows;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+intelligent+solutions+%F0%9F%A4%96;Building+AI-powered+applications+%F0%9F%9A%80;Designing+clean+and+intuitive+experiences+%F0%9F%8E%A8;Learning%2C+building%2C+and+improving+every+day+%E2%9C%A8" alt="Typing SVG"/>
+<p align="center">
+  <a href="https://github.com/Pugal030506">
+    <img src="https://img.shields.io/badge/GitHub-Pugal030506-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/pugal030506">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<br/>
+---
 
-<a href="https://pugal-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pugal030506/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pugazhenthi030506@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=pugal030506&style=flat-square&color=7C3AED&label=PROFILE+VISITORS"/>
+I'm a final-year Computer Science and Engineering student passionate about building intelligent applications, developing software solutions, and designing user-friendly digital experiences.
 
-</div>
+- 🎓 B.E. Computer Science and Engineering (2023–2027)
+- 🤖 Interested in Artificial Intelligence, Generative AI and Agentic AI.
+- 💻 Building applications using Python, Java and JavaScript.
+- 🌐 Exploring Full Stack Development and REST APIs.
+- 🎨 Interested in UI/UX Design and User-Centered Design.
+- 🧠 Exploring LLM workflows, RAG, LangChain and LangGraph.
+- ☁️ Learning cloud technologies and AI automation.
+- 🎯 Aspiring Software Development Engineer / AI Engineer.
+- 💡 Passionate about transforming ideas into real-world solutions.
 
-🧑‍💻 WHO AM I?
+---
 
-class Pugazhenthi:
-    def __init__(self):
-        self.name = "Pugazhenthi M"
-        self.role = [
-            "AI Engineer",
-            "Software Developer",
-            "Full Stack Developer",
-            "UI/UX Designer"
-        ]
-        self.education = "B.E. Computer Science & Engineering"
-        self.college = "Sri Shakthi Institute of Engineering and Technology"
-        self.graduation = 2027
+## 🛠️ Technical Skills
 
-        self.interests = [
-            "Generative AI",
-            "Agentic AI",
-            "Full Stack Development",
-            "UI/UX Design",
-            "Problem Solving"
-        ]
+### 💻 Programming Languages
 
-        self.mindset = "Learn → Build → Experiment → Improve"
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+</p>
 
-    def current_goal(self):
-        return "Building useful technology with great user experiences"
+### 🌐 Frontend Development
 
-me = Pugazhenthi()
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
-I'm a Computer Science student passionate about combining intelligent technology, software engineering, and creative design.
+### ⚙️ Backend Development
 
-I enjoy turning ideas into working applications, experimenting with AI-powered workflows, building backend systems, and designing interfaces that make technology easier to use.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php" />
+</p>
 
-🤖 Exploring Generative AI, LLMs, RAG and Agentic AI.
+### 🗄️ Database
 
-💻 Building practical applications with Python and web technologies.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-🎨 Interested in UI/UX, wireframes and user-centered design.
+### 🤖 AI & Automation
 
-🚀 Always experimenting with new tools and technologies.
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+</p>
 
-🎯 Goal: Become an engineer who builds products that solve real problems.
+### 🎨 UI/UX Design
 
-⚡ MY TECH UNIVERSE
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 
-<div align="center">
+- User-Centered Design
+- Wireframing
+- Prototyping
+- Responsive UI Design
+- Design Principles
+- Modern Web Interfaces
 
-💻 Programming Languages
+### ☁️ Cloud & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,linux" />
+</p>
 
-🌐 Web & Backend Development
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,fastapi,mysql,mongodb&theme=dark" />
+## 🚀 Featured Projects
 
-🤖 AI & Automation
+### 1. WhatsApp AI Voice & Text Assistant
 
-<img src="https://skillicons.dev/icons?i=python,googlecloud,aws,docker&theme=dark" />
+**Python | n8n | OpenRouter | WhatsApp Cloud API | LLM Workflows**
 
-Also exploring: n8n · OpenRouter · LLM Workflows · REST APIs · Prompt Engineering · RAG · LangChain · LangGraph
+- Built an AI-powered WhatsApp assistant for automated conversations.
+- Supports text-based and voice-based interactions.
+- Integrated speech-to-text and AI-powered response workflows.
+- Used n8n to orchestrate automation and LLM interactions.
+- Explored agent-based workflows for intelligent responses.
 
-🎨 UI/UX & Creative Design
+🔗 [View Project](https://github.com/Pugal030506/Whatsapp-Automation-AI-)
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+---
 
-Figma · Wireframing · Prototyping · User Flows · Responsive UI · User-Centered Design
+### 2. FactoryPulse – Industrial Equipment Intelligence Platform
 
-🛠️ Developer Tools
+**Python | FastAPI | MQTT | Docker | Qdrant | ML**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+- Developing an industrial equipment intelligence platform.
+- Working on machine telemetry ingestion and sensor data simulation.
+- Exploring predictive maintenance and machine health monitoring.
+- Building backend inference and AI copilot components.
 
-</div>
+**Status:** In Development 🚧
 
-🚀 PROJECTS THAT REPRESENT ME
+---
 
-Ideas are great. Building them is better.
+### 3. Automatic Timetable Generator
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Python | Tkinter**
 
-🤖 WhatsApp AI Assistant
+- Developed a timetable generation application.
+- Handles subjects, faculty, classrooms and scheduling requirements.
+- Focused on reducing scheduling conflicts.
+- Improves timetable distribution and management.
 
-AI-powered voice and text automation
+---
 
-An intelligent WhatsApp assistant that processes incoming messages and generates automated AI responses.
+### 4. Citizen Law Guide
 
-Text and voice message handling
+**TypeScript | Web Development**
 
-AI-powered response generation
+- Developed a project focused on making legal information more accessible.
+- Explored user-friendly interfaces and information organization.
 
-Speech-to-text workflow
+🔗 [View Project](https://github.com/Pugal030506/citizen-law-guide)
 
-Automated integrations
+---
 
-Tech: Python · n8n · OpenRouter · WhatsApp Cloud API · Google Cloud
+### 5. Online Shopping Portal
 
-<a href="https://github.com/pugal030506/Whatsapp-Automation-AI-">↗ Explore Repository</a>
+**HTML | CSS | Web Development**
 
-</td>
-<td width="50%" valign="top">
+- Worked on an online shopping portal interface.
+- Explored frontend design and web development fundamentals.
 
-🏭 FactoryPulse
+🔗 [View Project](https://github.com/Pugal030506/Online-shopping-portal)
 
-Industrial Equipment Intelligence Platform
+---
 
-An ongoing project focused on industrial equipment monitoring and predictive maintenance.
+### 6. Food Delivery UI
 
-Machine telemetry ingestion and simulation
+**HTML | CSS | UI Design**
 
-Equipment health monitoring
+- Designed a food delivery user interface.
+- Focused on layout, visual presentation and user experience.
 
-Backend inference services
+🔗 [View Project](https://github.com/Pugal030506/food-delivery-UI)
 
-AI-powered industrial insights
+---
 
-Tech: Python · FastAPI · MQTT · Docker · Qdrant
+## 📊 GitHub Statistics
 
-<sub>🚧 Currently under development</sub>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pugal030506&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pugal030506&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pugal030506&theme=github-dark-blue&hide_border=true" />
+</p>
 
-📅 Automatic Timetable Generator
+---
 
-Smart academic scheduling
+## 📈 Contribution Graph
 
-A Python application designed to simplify academic timetable generation.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pugal030506&theme=github-compact&hide_border=true" width="100%" />
+</p>
 
-Subject and faculty management
+---
 
-Classroom allocation
+## 🎯 Currently Exploring
 
-Scheduling conflict prevention
+- Generative AI and Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- LangChain and LangGraph
+- FastAPI and REST API Development
+- Full Stack Application Development
+- UI/UX Design and Prototyping
+- Responsive Web Design
+- AWS and Cloud-Based Applications
+- Data Structures and Algorithms
 
-Automated timetable generation
+---
 
-Tech: Python · Tkinter
+## 🏆 My Goals
 
-</td>
-<td width="50%" valign="top">
+- Build impactful AI-powered applications.
+- Develop scalable and reliable software.
+- Create intuitive and accessible user interfaces.
+- Contribute to open-source projects.
+- Continuously improve my problem-solving skills.
+- Grow as an AI Engineer and Software Developer.
 
-⚖️ Citizen Law Guide
+---
 
-Making legal information accessible
+## 🤝 Let's Connect
 
-A web-based project focused on presenting legal information through a user-friendly interface.
+I'm always interested in learning, collaborating and building meaningful technology.
 
-Tech: TypeScript · Web Development
+<p align="center">
+  <a href="https://github.com/Pugal030506">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/pugal030506">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<a href="https://github.com/pugal030506/citizen-law-guide">↗ Explore Repository</a>
+<p align="center">
+  <b>💻 Building Today | 🎨 Designing Tomorrow | 🚀 Innovating the Future</b>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🛒 Online Shopping Portal
-
-Database-driven shopping application
-
-User registration and authentication
-
-Product and database integration
-
-Shopping portal interface
-
-Tech: PHP · HTML · CSS · JavaScript · MySQL
-
-<a href="https://github.com/pugal030506/Online-shopping-portal">↗ Explore Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-🍔 Food Delivery UI
-
-Mobile application UI exploration
-
-A food delivery app interface project with screens for browsing food, viewing details, cart and authentication.
-
-Tech: Flutter · Dart
-
-<sub>🚧 UI project in progress</sub>
-
-<a href="https://github.com/pugal030506/food-delivery-UI">↗ Explore Repository</a>
-
-</td>
-</tr>
-</table>
-
-🎨 BEYOND CODE — DESIGNING EXPERIENCES
-
-I believe a great product is not just about what happens behind the screen. It is also about how people experience it.
-
-My design interests include:
-
-🎯 Understanding user needs and user flows.
-
-🧩 Creating simple and intuitive interfaces.
-
-📐 Exploring wireframes and low-fidelity layouts.
-
-🎨 Building visual consistency and responsive layouts.
-
-🖌️ Experimenting with Figma and UI design principles.
-
-My philosophy: Great engineering makes things work. Great design makes people love using them.
-
-📈 MY GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pugal030506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugal030506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=pugal030506&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pugal030506&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-🏆 MILESTONES & ACHIEVEMENTS
-
-🧠 Solved 50+ problems on LeetCode.
-
-🇮🇳 Participated in Smart India Hackathon (SIH) 2024.
-
-🏢 Completed Deloitte Data Analytics Virtual Experience Program — Forage.
-
-💻 Completed Full Stack Development Training — Arttifai Tech.
-
-🎓 Student Coordinator — Illusion Club.
-
-🌍 Member — Rotaract District 3206.
-
-🌱 CURRENTLY EXPLORING
-
-Area
-
-Learning Focus
-
-🤖 Artificial Intelligence
-
-RAG, Agentic AI, LLM Workflows
-
-🔗 AI Frameworks
-
-LangChain, LangGraph
-
-⚙️ Backend
-
-FastAPI, REST API Development
-
-☁️ Cloud & Deployment
-
-AWS, Docker
-
-🎨 Design
-
-Figma, Prototyping, UI/UX Principles
-
-🧩 Problem Solving
-
-Data Structures & Algorithms
-
-💬 A LITTLE SOMETHING I BELIEVE
-
-<div align="center">
-
-"Don't just learn technology. Build something meaningful with it."
-
-Curiosity drives me. Creativity inspires me. Building keeps me moving.
-
-</div>
-
-🌐 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://pugal-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pugal030506/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pugazhenthi030506@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/pugal030506/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/pugal030506"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-📧 pugazhenthi030506@gmail.com
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:090A1A&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer" />
+</p>
